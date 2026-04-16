@@ -16,3 +16,5 @@ Proyecto en Java para practicar desarrollo dirigido por tests (TDD), uso de Git/
 Desarrollar una clase Vehículo utilizando metodología TDD, con pruebas unitarias en JUnit y trabajo colaborativo mediante Git y GitHub.
 
 ## Tecnologías
+
+Probar protección de main
