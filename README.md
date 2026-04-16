@@ -1,5 +1,6 @@
 # M05-Endterm-Grupo04
 M05-0485 Endterm Grupo 04
+
 Proyecto en Java para practicar desarrollo dirigido por tests (TDD), uso de Git/GitHub y trabajo colaborativo en equipo.
 
 ## 👥 Autores
