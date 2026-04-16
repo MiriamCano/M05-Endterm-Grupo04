@@ -17,4 +17,3 @@ Desarrollar una clase Vehículo utilizando metodología TDD, con pruebas unitari
 
 ## Tecnologías
 
-Probar protección de main
