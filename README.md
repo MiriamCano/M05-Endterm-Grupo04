@@ -15,6 +15,22 @@ Proyecto en Java para practicar desarrollo dirigido por tests (TDD), uso de Git/
 
 Desarrollar una clase Vehículo utilizando metodología TDD, con pruebas unitarias en JUnit y trabajo colaborativo mediante Git y GitHub.
 
+## 👥 Gestión y Roles del Equipo
+
+Para este proyecto, hemos adoptado una estructura de roles profesionales para garantizar la calidad del software y la agilidad en las entregas:
+
+| Rol | Responsable | Aportaciones Clave |
+| :--- | :--- | :--- |
+| **Arquitecto & DevOps** | **Miriam** | Configuración del entorno, reglas de protección de rama y despliegue del pipeline de **Integración Continua (CI)** con GitHub Actions. |
+| **QA & Analista** | **Alberto** | Diseño de la estrategia **TDD**, redacción de requisitos técnicos, documentación del proyecto y control de calidad del código. |
+| **Lead Developer** | **Deme** | Diseño de la arquitectura de clases (**UML**) y liderazgo en la implementación técnica de la lógica de negocio. |
+
+### 🛠️ Flujo de Trabajo (Agile)
+Hemos implementado un flujo basado en **Feature Branches** y **Pull Requests**:
+1. Ningún cambio llega a `main` sin pasar por una revisión cruzada.
+2. El código es validado automáticamente por nuestro "robot" (CI) para asegurar que los cambios no rompen funcionalidades previas.
+3. Mantenemos una trazabilidad total entre los diagramas de diseño y la implementación final en Java.
+
 ## Tecnologías
 
 # Proyecto Vehículo - TDD
